@@ -1,6 +1,5 @@
 ﻿using System.Drawing;
 
-
 namespace TelCo.ColorCoder
 {
     public static class ColorData
